@@ -1,6 +1,6 @@
 # Data-Cleaning-Practice
 
-5 files on:
+Each folder handles different concepts, and each of them contains the respective data files.
 
 1: Handling missing values
 
